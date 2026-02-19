@@ -21,11 +21,11 @@ layers:
   - U
   - {t: ',', s: <}
   - $$mdi:arrow-down-bold$$
-  - W
+  - {t: ., s: '>'}
   - D
   - L
   - C
-  - Z
+  - X
   - {t: '[', s: '{'}
   - $$mdi:apple-keyboard-shift$$
   - I
@@ -45,14 +45,14 @@ layers:
   - J
   - F
   - Y
-  - {t: ;, s: ':'}
+  - {t: \, s: '|'}
   - $$mdi:arrow-right-bold$$
-  - {t: ., s: '>'}
-  - V
+  - Z
+  - W
   - G
   - K
-  - X
-  - {t: ']', s: '}'}
+  - V
+  - $$mdi:keyboard-tab$$
   - layer1
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
@@ -60,7 +60,7 @@ layers:
   - $$mdi:apple-keyboard-command$$
   - $$mdi:keyboard-esc$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:keyboard-tab$$
+  - {t: ;, s: ':'}
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:keyboard-return$$', type: enter}
